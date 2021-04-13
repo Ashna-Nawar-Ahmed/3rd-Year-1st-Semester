@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	color: black;
+	font-family: "Trebuchet MS";
+	font-weight: normal;
+	font-size:60px;
+}
+
+img{
+	width:100%;
+	
+	height: 360px;
+	padding-right:20px;
+ }
+body{
+	background-color: #e0e0eb;
+}
+div{
+	background-color:white;
+	float:left;
+	text-align:center;
+	height: 460px;	
+	width: 30%;
+	margin-left: 35px;
+	margin-bottom:50px;
+}

@@ -1,0 +1,42 @@
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  /*background-image: url("images/imgLogin.jpg");*/
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#mainHeading{
+	position: absolute;
+	font-family:"Chosence";
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 5vw;
+	color:blue;
+}
+fieldset{
+	
+	
+}
+.block{
+	border-radius:25px;
+	
+	/*background-color:#77a0d4;*/
+}

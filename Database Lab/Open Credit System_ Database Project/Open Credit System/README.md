@@ -5,8 +5,9 @@ It is a database software which is capable of keeping records of students' cours
 Language: Java, SQL Server
 
 Tasks that can be performed by this app are:
+
 * Home page<br><br>
-<img src="images/welcome.jpg" height="500">
+<img src="images/home.jpg" height="500">
 * Login page<br><br>
 <img src="images/login.jpg" height="500">
 * Profile page<br><br>
